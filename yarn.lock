@@ -355,7 +355,7 @@
 
 "@scriptmate/helpers@*", "@scriptmate/helpers@file:/Users/kmariappan/works/playground/turborepo/turbo-changesets-base/packages/helpers":
   "resolved" "file:packages/helpers"
-  "version" "0.0.1"
+  "version" "0.1.0"
 
 "@scriptmate/tsconfig@*", "@scriptmate/tsconfig@file:/Users/kmariappan/works/playground/turborepo/turbo-changesets-base/packages/acme-tsconfig":
   "resolved" "file:packages/acme-tsconfig"
